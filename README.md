@@ -6,12 +6,13 @@
 
 ### About Me 👨
 
-- 🌱 I’m currently learning: Python.
-- 😄 I’m looking to collaborate on: Anything cool!
-- 📫 How to reach me: vladislav001015@gmail.com
+- 🌱 I’m Python Developer.
+- 📫 gmail: vladislav001015@gmail.com
+- LinkedIn: 
 
 ### LeetCode Stats
-<img alt="LeetCode Stat Card" src="https://leetcode-stats-six.vercel.app/?username=Vladislav001015&theme=dark" width="400"/>
+<img alt="LeetCode Stat Card" src="https://leetcode-readme.vercel.app/?username=Vladislav001015&theme=dark" width="400"/>
+
 
 #### ...
 #### to be continued ...
