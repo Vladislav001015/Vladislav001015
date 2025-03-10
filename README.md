@@ -11,7 +11,8 @@
 - LinkedIn: 
 
 ### LeetCode Stats
-<img alt="LeetCode Stat Card" src="https://leetcode-readme.vercel.app/?username=Vladislav001015&theme=dark" width="400"/>
+<img alt="LeetCode Stat Card" src="https://leetcode-readme.vercel.app/api?username=Vladislav001015&theme=dark" width="400"/>
+
 
 
 #### ...
